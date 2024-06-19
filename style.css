@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 6rem 2rem;
+    background-color: #ECF2F8;
+    font-size: 0.8125rem;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    min-height: 100vh;
+}
