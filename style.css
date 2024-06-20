@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6, main, header, article, p, img {
 }
 
 body {
-    margin: 0;
+    margin: 0 auto;
     padding: 4.5rem 1.5rem;
     background-color: #ECF2F8;
     font-size: 0.8125rem;
