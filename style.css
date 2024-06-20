@@ -14,6 +14,9 @@ body {
     font-size: 0.8125rem;
     font-family: 'Barlow Semi Condensed', sans-serif;
     min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
 
 main {
